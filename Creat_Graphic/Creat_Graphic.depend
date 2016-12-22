@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1449742963 source:e:\code blocks workplace\creat_graphic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<limits.h>
+	<io.h>
+	<math.h>
+	<process.h>
+

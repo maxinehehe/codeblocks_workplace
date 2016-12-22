@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441962658 source:e:\code blocks workplace\acm_queue01\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+

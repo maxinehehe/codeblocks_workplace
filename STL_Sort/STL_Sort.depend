@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448675861 source:e:\code blocks workplace\stl_sort\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

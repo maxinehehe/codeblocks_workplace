@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1440905110 source:e:\code blocks workplace\sort_collection(practice)\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<cstring>
+

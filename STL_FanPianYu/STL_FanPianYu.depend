@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1449108723 source:e:\code blocks workplace\stl_fanpianyu\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<set>
+	<map>
+	<algorithm>
+

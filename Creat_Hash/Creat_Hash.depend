@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449380947 source:e:\code blocks workplace\creat_hash\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

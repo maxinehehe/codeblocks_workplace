@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441789153 source:e:\code blocks workplace\course_list02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

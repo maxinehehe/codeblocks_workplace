@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1441378150 source:e:\code blocks workplace\dassinc02\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<map>
+

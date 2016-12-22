@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1449025986 source:e:\code blocks workplace\stl_set\main.cpp
+	<iostream>
+	<string>
+	<set>
+	<sstream>
+

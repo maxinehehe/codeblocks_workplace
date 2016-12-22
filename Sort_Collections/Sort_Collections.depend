@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1450104091 source:e:\code blocks workplace\sort_collections\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<time.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1449028799 source:e:\code blocks workplace\stl_map_test01\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+

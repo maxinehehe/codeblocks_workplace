@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451829739 source:/media/maxine/学习资料/code blocks workplace/test/main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1439287414 source:e:\code blocks workplace\hdu1013\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<cstdio>
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+

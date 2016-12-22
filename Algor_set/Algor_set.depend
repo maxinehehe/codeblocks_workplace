@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1441855307 source:e:\code blocks workplace\algor_set\main.cpp
+	<iostream>
+	<set>
+

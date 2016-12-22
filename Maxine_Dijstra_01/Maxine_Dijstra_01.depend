@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1450362848 source:e:\code blocks workplace\maxine_dijstra_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<limits.h>
+	<io.h>
+	<process.h>
+

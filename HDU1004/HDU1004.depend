@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437994653 source:e:\code blocks workplace\hdu1004\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<cstring>
+	<string.h>
+

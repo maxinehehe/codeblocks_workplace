@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1446182070 source:e:\code blocks workplace\bittree02\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

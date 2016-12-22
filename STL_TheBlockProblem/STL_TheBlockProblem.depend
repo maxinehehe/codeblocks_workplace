@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448687065 source:e:\code blocks workplace\stl_theblockproblem\main.cpp
+	<cstdio>
+	<string>
+	<vector>
+	<iostream>
+

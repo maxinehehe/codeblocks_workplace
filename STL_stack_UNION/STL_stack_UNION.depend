@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1449112856 source:e:\code blocks workplace\stl_stack_union\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+	<stack>
+	<map>
+	<iterator>
+

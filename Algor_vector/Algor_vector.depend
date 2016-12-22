@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1441851992 source:e:\code blocks workplace\algor_vector\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+

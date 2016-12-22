@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1441959501 source:e:\code blocks workplace\acm_stack02\main.cpp
+	<iostream>
+	<cstdio>
+	<set>
+	<vector>
+	<stack>
+	<map>
+	<list>
+

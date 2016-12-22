@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1450403266 source:e:\code blocks workplace\final___________01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<limits.h>
+	<io.h>
+	<process.h>
+

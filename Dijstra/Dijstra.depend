@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1450359974 source:e:\code blocks workplace\dijstra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<malloc.h>
+	<limits.h>
+	<io.h>
+	<process.h>
+
